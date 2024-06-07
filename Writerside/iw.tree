@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="iw"
+                 name="Islands Wiki"
+                 start-page="Willkommen.md">
+
+    <toc-element topic="Willkommen.md"/>
+    <toc-element topic="Länderverwaltung.md"/>
+    <toc-element topic="Spezielle-Rezepte.md"/>
+</instance-profile>
