@@ -5,7 +5,8 @@
     <variables></variables>
     <build-profile instance="iw">
         <variables>
-            <noindex-content>true</noindex-content>
+            <noindex-content>false</noindex-content>
+            <header-logo>rainbow.svg</header-logo>
         </variables>
     </build-profile>
 
