@@ -10,6 +10,42 @@ Ordne einfach 8 Rohholz in einem Craftingtable an und erhalte vier Kisten.
 ![Kisten](chests.png){ width=524 }{border-effect=line}
 
 
+## Schwarze Farbe
+
+Du kannst aus (Holz)kohle nun auch schwarze Farbe herstellen.
+
+![BlackDye](black_dye.png){ width=524 }{border-effect=line}
+
+
+## Quarz
+
+Quarz lässt sich nun wieder aus Quarzblöcken zurück craften.
+
+![Quarz](quartz.png){ width=524 }{border-effect=line}
+
+
+## Sand
+
+Brenn ein wenig Dreck im Ofen und erhalte Sand.
+
+![Sand](sand.png){ width=524 }{border-effect=line}
+
+
+## Faden
+
+Fäden kannst du nun auch aus Wolle gewinnen.
+
+![Faden](string.png){ width=524 }{border-effect=line}
+
+
+## Nametags
+
+Nametags sind rar und schwer zu finden. 
+Deshalb kannst du sie nun auch aus Papier, Eisen und Faden herstellen.
+
+![Nametags](nametag.png){ width=524 }{border-effect=line}
+
+
 ## Myzelium
 
 Möchtest du Myzelium herstellen, ohne es mühsam suchen zu müssen? Kein Problem!
