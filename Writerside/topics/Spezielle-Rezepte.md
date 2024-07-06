@@ -23,6 +23,11 @@ Quarz lässt sich nun wieder aus Quarzblöcken zurück craften.
 
 ![Quarz](quartz.png){ width=524 }{border-effect=line}
 
+## Magmacreme
+
+Magmacreme lässt sich nun wieder aus Magmablöcken zurück craften.
+
+![Magmacreme](magmablock_to_cream.png){ width=524 }{border-effect=line}
 
 ## Sand
 
@@ -53,6 +58,26 @@ Packe einfach einen braunen Pilz und ein Stück Erde in deinen Craftingtable und
 
 ![Myzelium](mycelium.png){ width=524 }{border-effect=line}
 
+
+## Schleimbälle
+
+Braucht ihr Schleimbälle, aber wollt nicht ewig nach Slimes suchen? Kein Problem!
+Jetzt könnt ihr Schleimbälle ganz einfach selbst herstellen.
+
+> **Hinweis: Der Wassereimer bleibt im Craftingtable erhalten und wird nicht verbraucht.**
+{style="note"}
+
+![Schleimbälle](slime_ball_crafting.png){ width=524 }{border-effect=line}
+
+## Schlamm
+
+Möchtest du Schlamm herstellen, um deine Bauprojekte voranzutreiben?
+Mit diesem neuen Rezept kannst du ganz einfach Schlamm aus Dreck und Wasser machen.
+
+> **Hinweis: Der Wassereimer bleibt im Craftingtable erhalten und wird nicht verbraucht.**
+{style="note"}
+
+![Schlamm](mud_crafting.png){ width=524 }{border-effect=line}
 
 ## Treppen zurück craften
 
