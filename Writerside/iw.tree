@@ -7,7 +7,10 @@
                  start-page="Willkommen.md">
 
     <toc-element topic="Willkommen.md"/>
-    <toc-element topic="Länderverwaltung.md"/>
-    <toc-element topic="Spezielle-Rezepte.md"/>
+    <toc-element topic="Survival.md">
+        <toc-element topic="Anfaenger-Guide.md"/>
+        <toc-element topic="Länderverwaltung.md"/>
+        <toc-element topic="Spezielle-Rezepte.md"/>
+    </toc-element>
     <toc-element topic="Wechseln-der-Minecraft-Version-in-verschiedenen-Launchern.md"/>
 </instance-profile>

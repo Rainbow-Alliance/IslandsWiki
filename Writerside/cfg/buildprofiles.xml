@@ -7,6 +7,7 @@
         <variables>
             <noindex-content>false</noindex-content>
             <header-logo>rainbow.svg</header-logo>
+            <custom-favicons>rainbow.svg</custom-favicons>
         </variables>
     </build-profile>
 
